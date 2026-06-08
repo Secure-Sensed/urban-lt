@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Temporary files
+*.swp
+*.swo
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# IDE
+.vscode/
